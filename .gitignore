@@ -142,3 +142,8 @@ dmypy.json
 
 # macOS filesystem
 *.DS_Store
+
+#models and ml packages 
+mlpackages/ 
+models/
+output/
